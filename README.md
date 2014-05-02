@@ -12,3 +12,5 @@ Agregue esta linea en el primer draft branch.
 Con dos lineas.
 
 Sip es asi. Probando.
+
+Arreglando el error del issue #8
